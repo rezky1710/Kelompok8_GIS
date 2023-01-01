@@ -1,0 +1,895 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4265133, 1.674296314]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Pemetaan": "Jl. Pemuda Darat",
+            "Y": 1.674296314,
+            "X": 101.4265133,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980885/GIS/1_hhid5w.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4241248, 1.674177081]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Pemetaan": "Jl. Nelayan",
+            "Y": 1.674177081,
+            "X": 101.4241248,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980890/GIS/2_uisjyl.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4252462, 1.673314003]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "Nama_Pemetaan": "Jl. Simpang Tetap",
+            "Y": 1.673314003,
+            "X": 101.4252462,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980897/GIS/3_ym38zx.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.425965, 1.674858296]
+        },
+        "properties": {
+            "OBJECTID": 4,
+            "No_": 4,
+            "Nama_Pemetaan": "Jl. Cemara",
+            "Y": 1.674858296,
+            "X": 101.425965,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980903/GIS/4_utssis.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.428897, 1.679858403]
+        },
+        "properties": {
+            "OBJECTID": 5,
+            "No_": 5,
+            "Nama_Pemetaan": "Jl. Pemuda Laut",
+            "Y": 1.679858403,
+            "X": 101.428897,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980906/GIS/5_couz3k.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4267084, 1.680480408]
+        },
+        "properties": {
+            "OBJECTID": 6,
+            "No_": 6,
+            "Nama_Pemetaan": "Jl. Nelayan Laut",
+            "Y": 1.680480408,
+            "X": 101.4267084,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980914/GIS/6_j54ogo.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4305635, 1.673647795]
+        },
+        "properties": {
+            "OBJECTID": 7,
+            "No_": 7,
+            "Nama_Pemetaan": "Jl. Belimbing",
+            "Y": 1.673647795,
+            "X": 101.4305635,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980919/GIS/7_lim8ef.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4363815, 1.670457677]
+        },
+        "properties": {
+            "OBJECTID": 8,
+            "No_": 8,
+            "Nama_Pemetaan": "Jl. Sultan Hasanudin",
+            "Y": 1.670457677,
+            "X": 101.4363815,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980922/GIS/8_bvyeid.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4425352, 1.668298779]
+        },
+        "properties": {
+            "OBJECTID": 9,
+            "No_": 9,
+            "Nama_Pemetaan": "Jl. Pangeran Diponegoro",
+            "Y": 1.668298779,
+            "X": 101.4425352,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980925/GIS/9_c2uhl0.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4255779, 1.672214455]
+        },
+        "properties": {
+            "OBJECTID": 10,
+            "No_": 10,
+            "Nama_Pemetaan": "Jl. Sirih",
+            "Y": 1.672214455,
+            "X": 101.4255779,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980945/GIS/10_ktmf5x.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4353512, 1.673894657]
+        },
+        "properties": {
+            "OBJECTID": 11,
+            "No_": 11,
+            "Nama_Pemetaan": "Jl. Cempedak",
+            "Y": 1.673894657,
+            "X": 101.4353512,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980950/GIS/11_psoegw.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4337488, 1.667267408]
+        },
+        "properties": {
+            "OBJECTID": 12,
+            "No_": 12,
+            "Nama_Pemetaan": "Jl. Sidorejo",
+            "Y": 1.667267408,
+            "X": 101.4337488,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980959/GIS/12_ssezit.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4343166, 1.666106848]
+        },
+        "properties": {
+            "OBJECTID": 13,
+            "No_": 13,
+            "Nama_Pemetaan": "Jl. Tegalega",
+            "Y": 1.666106848,
+            "X": 101.4343166,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980962/GIS/13_akezby.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4455907, 1.678079292]
+        },
+        "properties": {
+            "OBJECTID": 14,
+            "No_": 14,
+            "Nama_Pemetaan": "Jl. Sultan Syarief Kasim",
+            "Y": 1.678079292,
+            "X": 101.4455907,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980968/GIS/14_rd1t23.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4374267, 1.677751719]
+        },
+        "properties": {
+            "OBJECTID": 15,
+            "No_": 15,
+            "Nama_Pemetaan": "Jl. Budi Kemuliaan",
+            "Y": 1.677751719,
+            "X": 101.4374267,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980972/GIS/15_gvheco.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4280465, 1.672936919]
+        },
+        "properties": {
+            "OBJECTID": 16,
+            "No_": 16,
+            "Nama_Pemetaan": "Jl. Pangkalan Sena",
+            "Y": 1.672936919,
+            "X": 101.4280465,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980984/GIS/16_o3yu7z.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4282385, 1.672464765]
+        },
+        "properties": {
+            "OBJECTID": 17,
+            "No_": 17,
+            "Nama_Pemetaan": "Jl. Sepakat",
+            "Y": 1.672464765,
+            "X": 101.4282385,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980989/GIS/17_eenwsl.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4264966, 1.675721577]
+        },
+        "properties": {
+            "OBJECTID": 18,
+            "No_": 18,
+            "Nama_Pemetaan": "Jl. Bukit Batu",
+            "Y": 1.675721577,
+            "X": 101.4264966,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671980996/GIS/18_gwjey9.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4265197, 1.675178044]
+        },
+        "properties": {
+            "OBJECTID": 19,
+            "No_": 19,
+            "Nama_Pemetaan": "Jl. T. Sulaiman",
+            "Y": 1.675178044,
+            "X": 101.4265197,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981007/GIS/19_ve3sdf.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 20,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4257861, 1.672576358]
+        },
+        "properties": {
+            "OBJECTID": 20,
+            "No_": 20,
+            "Nama_Pemetaan": "Jl. Mahdalena",
+            "Y": 1.672576358,
+            "X": 101.4257861,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981011/GIS/20_miy6gs.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 21,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4331509, 1.675946744]
+        },
+        "properties": {
+            "OBJECTID": 21,
+            "No_": 21,
+            "Nama_Pemetaan": "Jl. Nangka",
+            "Y": 1.675946744,
+            "X": 101.4331509,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981015/GIS/21_fidsvh.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 22,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4329222, 1.674915812]
+        },
+        "properties": {
+            "OBJECTID": 22,
+            "No_": 22,
+            "Nama_Pemetaan": "Jl. Jeruk",
+            "Y": 1.674915812,
+            "X": 101.4329222,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981019/GIS/22_qi48us.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 23,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4269708, 1.677363119]
+        },
+        "properties": {
+            "OBJECTID": 23,
+            "No_": 23,
+            "Nama_Pemetaan": "Jl. Bengkalis",
+            "Y": 1.677363119,
+            "X": 101.4269708,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981025/GIS/23_dkp9lx.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 24,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4282228, 1.675001575]
+        },
+        "properties": {
+            "OBJECTID": 24,
+            "No_": 24,
+            "Nama_Pemetaan": "Jl. Siak",
+            "Y": 1.675001575,
+            "X": 101.4282228,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981032/GIS/24_bpmaeu.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 25,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4308741, 1.678851877]
+        },
+        "properties": {
+            "OBJECTID": 25,
+            "No_": 25,
+            "Nama_Pemetaan": "Jl. Teduh",
+            "Y": 1.678851877,
+            "X": 101.4308741,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981037/GIS/25_yuo0cd.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 26,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4288528, 1.676498796]
+        },
+        "properties": {
+            "OBJECTID": 26,
+            "No_": 26,
+            "Nama_Pemetaan": "Jl. Kakap",
+            "Y": 1.676498796,
+            "X": 101.4288528,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981053/GIS/26_zrfzml.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 27,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4264934, 1.675732741]
+        },
+        "properties": {
+            "OBJECTID": 27,
+            "No_": 27,
+            "Nama_Pemetaan": "Jl. Bukit Batu",
+            "Y": 1.675732741,
+            "X": 101.4264934,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981063/GIS/27_devmnm.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 28,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4268298, 1.675281872]
+        },
+        "properties": {
+            "OBJECTID": 28,
+            "No_": 28,
+            "Nama_Pemetaan": "Jl. Idham",
+            "Y": 1.675281872,
+            "X": 101.4268298,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981116/GIS/28_e12tos.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 29,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4339783, 1.675427665]
+        },
+        "properties": {
+            "OBJECTID": 29,
+            "No_": 29,
+            "Nama_Pemetaan": "Jl. Cermai II",
+            "Y": 1.675427665,
+            "X": 101.4339783,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981129/GIS/29_spzbhv.png"
+        }
+    },{
+        "type": "Feature",
+        "id": 30,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4364706, 1.673263893]
+        },
+        "properties": {
+            "OBJECTID": 30,
+            "No_": 30,
+            "Nama_Pemetaan": "Jl. Apel",
+            "Y": 1.673263893,
+            "X": 101.4364706,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1671981135/GIS/30_jk8xok.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 31,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4362541, 1.673579172]
+        },
+        "properties": {
+            "OBJECTID": 31,
+            "No_": 31,
+            "Nama_Pemetaan": "Jl. Sukun",
+            "Y": 1.673579172,
+            "X": 101.4362541,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563322/GIS/g31_fokyyr.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 32,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4353033, 1.672355062]
+        },
+        "properties": {
+            "OBJECTID": 32,
+            "No_": 32,
+            "Nama_Pemetaan": "Jl. Mangga",
+            "Y": 1.672355062,
+            "X": 101.4353033,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563331/GIS/g32_evzvjq.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 33,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.436355, 1.672092008]
+        },
+        "properties": {
+            "OBJECTID": 33,
+            "No_": 33,
+            "Nama_Pemetaan": "Jl. Gandum",
+            "Y": 1.672092008,
+            "X": 101.436355,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563341/GIS/g33_wyqbl0.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 34,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4375678, 1.670819155]
+        },
+        "properties": {
+            "OBJECTID": 34,
+            "No_": 34,
+            "Nama_Pemetaan": "Jl. Rambutan",
+            "Y": 1.670819155,
+            "X": 101.4375678,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563349/GIS/g34_cacj54.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 35,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4375238, 1.669973561]
+        },
+        "properties": {
+            "OBJECTID": 35,
+            "No_": 35,
+            "Nama_Pemetaan": "Jl. Anggur",
+            "Y": 1.669973561,
+            "X": 101.4375238,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563363/GIS/g35_pfetsd.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 36,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4392767, 1.667912201]
+        },
+        "properties": {
+            "OBJECTID": 36,
+            "No_": 36,
+            "Nama_Pemetaan": "Jl. Anggur Timur",
+            "Y": 1.667912201,
+            "X": 101.4392767,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563371/GIS/g36_gqsihr.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 37,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4464286, 1.678512407]
+        },
+        "properties": {
+            "OBJECTID": 37,
+            "No_": 37,
+            "Nama_Pemetaan": "Jl. Kamboja",
+            "Y": 1.678512407,
+            "X": 101.4464286,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563380/GIS/g37_weyyth.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 38,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4368911, 1.678611082]
+        },
+        "properties": {
+            "OBJECTID": 38,
+            "No_": 38,
+            "Nama_Pemetaan": "Jl. Kaswari",
+            "Y": 1.678611082,
+            "X": 101.4368911,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563389/GIS/g38_mmsany.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 39,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4413358, 1.676433449]
+        },
+        "properties": {
+            "OBJECTID": 39,
+            "No_": 39,
+            "Nama_Pemetaan": "Jl. Rambai",
+            "Y": 1.676433449,
+            "X": 101.4413358,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563397/GIS/g39_meygee.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 40,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4262334, 1.674166272]
+        },
+        "properties": {
+            "OBJECTID": 40,
+            "No_": 40,
+            "Nama_Pemetaan": "Gg. Kencana",
+            "Y": 1.674166272,
+            "X": 101.4262334,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563405/GIS/g40_wigmmc.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 41,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4266453, 1.676274562]
+        },
+        "properties": {
+            "OBJECTID": 41,
+            "No_": 41,
+            "Nama_Pemetaan": "Gg. Pelita",
+            "Y": 1.676274562,
+            "X": 101.4266453,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563417/GIS/g41_pyhyp2.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 42,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4276247, 1.678560855]
+        },
+        "properties": {
+            "OBJECTID": 42,
+            "No_": 42,
+            "Nama_Pemetaan": "Gg. Wakaf",
+            "Y": 1.678560855,
+            "X": 101.4276247,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563428/GIS/g42_tetyus.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 43,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4271638, 1.677846618]
+        },
+        "properties": {
+            "OBJECTID": 43,
+            "No_": 43,
+            "Nama_Pemetaan": "Gg. Turi",
+            "Y": 1.677846618,
+            "X": 101.4271638,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563439/GIS/g43_job5bb.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 44,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4264261, 1.678644966]
+        },
+        "properties": {
+            "OBJECTID": 44,
+            "No_": 44,
+            "Nama_Pemetaan": "Gg. Lestari",
+            "Y": 1.678644966,
+            "X": 101.4264261,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563448/GIS/g44_vr14kf.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 45,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4465404, 1.679487863]
+        },
+        "properties": {
+            "OBJECTID": 45,
+            "No_": 45,
+            "Nama_Pemetaan": "Jl. Imam Bonjol",
+            "Y": 1.679487863,
+            "X": 101.4465404,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563462/GIS/g45_l1sccq.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 46,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4468317, 1.682447603]
+        },
+        "properties": {
+            "OBJECTID": 46,
+            "No_": 46,
+            "Nama_Pemetaan": "Jl. Cempaka",
+            "Y": 1.682447603,
+            "X": 101.4468317,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563473/GIS/g46_rlplvz.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 47,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4435011, 1.661730042]
+        },
+        "properties": {
+            "OBJECTID": 47,
+            "No_": 47,
+            "Nama_Pemetaan": "Jl. Bintan",
+            "Y": 1.661730042,
+            "X": 101.4435011,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563478/GIS/g47_h0x9eg.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 48,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4412454, 1.67981517]
+        },
+        "properties": {
+            "OBJECTID": 48,
+            "No_": 48,
+            "Nama_Pemetaan": "Jl. Patimura",
+            "Y": 1.67981517,
+            "X": 101.4412454,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563486/GIS/g48_ynsq3u.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 49,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4310944, 1.672005914]
+        },
+        "properties": {
+            "OBJECTID": 49,
+            "No_": 49,
+            "Nama_Pemetaan": "Jl. Semangka",
+            "Y": 1.672005914,
+            "X": 101.4310944,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563497/GIS/g49_euuz3i.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 50,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4337334, 1.672072228]
+        },
+        "properties": {
+            "OBJECTID": 50,
+            "No_": 50,
+            "Nama_Pemetaan": "Jl. Semangka IV",
+            "Y": 1.672072228,
+            "X": 101.4337334,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563505/GIS/g50_w1aijj.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 51,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4210614, 1.668970318]
+        },
+        "properties": {
+            "OBJECTID": 51,
+            "No_": 51,
+            "Nama_Pemetaan": "Gg. Turi",
+            "Y": 1.668970318,
+            "X": 101.4210614,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563520/GIS/g51_btjdrm.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 52,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4297255, 1.681567665]
+        },
+        "properties": {
+            "OBJECTID": 52,
+            "No_": 52,
+            "Nama_Pemetaan": "Jl. Teladan",
+            "Y": 1.681567665,
+            "X": 101.4297255,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563529/GIS/g52_hte9zd.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 53,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4312817, 1.681736061]
+        },
+        "properties": {
+            "OBJECTID": 53,
+            "No_": 53,
+            "Nama_Pemetaan": "Jl. Benteng",
+            "Y": 1.681736061,
+            "X": 101.4312817,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563533/GIS/g53_imbyxg.jpg"
+        }
+    }, {
+        "type": "Feature",
+        "id": 54,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4273921, 1.680995587]
+        },
+        "properties": {
+            "OBJECTID": 54,
+            "No_": 54,
+            "Nama_Pemetaan": "Gg. Karya",
+            "Y": 1.680995587,
+            "X": 101.4273921,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563549/GIS/g54_dp6fgk.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 55,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4287528, 1.679451026]
+        },
+        "properties": {
+            "OBJECTID": 55,
+            "No_": 55,
+            "Nama_Pemetaan": "Gg. Kemuning",
+            "Y": 1.679451026,
+            "X": 101.4287528,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563559/GIS/g55_ckevbg.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 56,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4277471, 1.678107878]
+        },
+        "properties": {
+            "OBJECTID": 56,
+            "No_": 56,
+            "Nama_Pemetaan": "Gg. Buntu",
+            "Y": 1.678107878,
+            "X": 101.4277471,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563601/GIS/g56_xzw3up.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 57,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4271236, 1.676450107]
+        },
+        "properties": {
+            "OBJECTID": 57,
+            "No_": 57,
+            "Nama_Pemetaan": "Jl. Tematu",
+            "Y": 1.676450107,
+            "X": 101.4271236,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563618/GIS/g57_qa4m5h.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 58,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4258066, 1.676870942]
+        },
+        "properties": {
+            "OBJECTID": 58,
+            "No_": 58,
+            "Nama_Pemetaan": "Gg. Bhayangkara",
+            "Y": 1.676870942,
+            "X": 101.4258066,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563637/GIS/g58_rqguub.png"
+        }
+    }, {
+        "type": "Feature",
+        "id": 59,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4268845, 1.67415763]
+        },
+        "properties": {
+            "OBJECTID": 59,
+            "No_": 59,
+            "Nama_Pemetaan": "Gg. Aru",
+            "Y": 1.67415763,
+            "X": 101.4268845,
+            "url" : "https://res.cloudinary.com/dudl8xhmc/image/upload/v1672563676/GIS/g59_bw50pk.png"
+        }
+    }]
+}

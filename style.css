@@ -1,0 +1,200 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  /* margin: 0; */
+  /* padding: 0; */
+  overflow: hidden;
+}
+
+#map {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+}
+
+.mousePosition {
+  position: fixed;
+  top: auto;
+  right: auto;
+  bottom: 5px;
+  left: 85%;
+  /* transform: translateX(-50%); */
+  /* border: 10px solid grey; */
+  border-radius: 10px;
+  padding: 5px;
+  /* background-color: rgba(225, 225,225, 0.4); */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+  font-weight: bolder;
+}
+
+.grid-container {
+display: grid;
+grid-template-areas: 
+    'header header'
+    'left right'
+    'footer footer';
+}
+
+.header {
+grid-area: header;
+font-size: 25px;
+height: 50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.left {
+grid-area: left;
+width: 20vw;
+height: 100vh;
+border: 5px solid grey;
+}
+
+.toc {
+margin-left: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.right {
+grid-area: right;
+width: 80vw;
+height: 100vh;
+border: 5px solid grey;
+}
+
+.footer {
+grid-area: footer;
+height: 10px;
+}
+
+
+.ol-popup-closer {
+  text-decoration: none;
+  position: absolute;
+  top: 2px;
+  right: 8px;
+}
+
+.ol-popup-closer:after {
+  content: "✖";
+}
+
+.myButton {
+  background-color:rgba(22, 85, 167, 0.6);
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  height: 25px;
+  width: 25px;
+  border-radius: 2px;
+  border: none;
+  align-items: center;
+}
+
+.myButton:hover{
+background-color: rgb(0, 60, 136, 1);
+}
+
+.myButton.clicked{
+background-color: rgba(22, 170, 35, 0.8);
+}
+
+.myButton.clicked:hover{
+background-color: rgba(22, 170, 35, 1);
+}
+
+.homeButtonDiv{
+position: relative;
+display: block;
+margin: 10px auto auto auto;
+}
+
+.fsButtonDiv {
+position: relative;
+display: block;
+margin: 10px auto auto auto;
+}
+
+.featureInfoDiv {
+position: relative;
+display: block;
+margin: 10px auto auto auto;
+}
+
+.lengthButtonDiv {
+position: relative;
+display: block;
+margin: 10px auto auto auto;
+}
+
+.areaButtonDiv {
+position: relative;
+display: block;
+margin: 10px auto auto auto;
+}
+
+/* start : Measure styling */
+
+.ol-tooltip {
+  position: relative;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  color: white;
+  padding: 4px 8px;
+  opacity: 0.7;
+  white-space: nowrap;
+  font-size: 12px;
+}
+.ol-tooltip-measure {
+  opacity: 1;
+  font-weight: bold;
+}
+.ol-tooltip-static {
+  background-color: #ffcc33;
+  color: black;
+  border: 10px solid white;
+}
+.ol-tooltip-measure:before,
+.ol-tooltip-static:before {
+  border-top: 6px solid rgba(0, 0, 0, 0.5);
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+  content: "";
+  position: absolute;
+  bottom: -6px;
+  margin-left: -7px;
+  left: 50%;
+}
+.ol-tooltip-static:before {
+  border-top-color: #ffcc33;
+}
+
+/* end : Measure styling */
+
+.ol-dragbox {
+  border: 2px dashed grey;
+  background-color: rgba(200, 200, 200, 0.6);
+}
+
+.ziButtonDiv {
+  position: relative;
+  display: block;
+  margin: 10px auto auto auto;
+}
+
+.zoButtonDiv {
+  position: relative;
+  display: block;
+  margin: 10px auto auto auto;
+}
+
+.myButtonDiv {
+  position: relative;
+  display: block;
+  margin: 10px auto auto auto;
+}
+
